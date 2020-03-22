@@ -8,7 +8,7 @@
             <h2 class="title is-3">welcome tiny viewer</h2>
             <p></p>
  <div>      
- <div>   
+ <div align = left >   
 <br>
 
  I am glad you spent the time to watch the video and click on my link as of now I have a few things that I can make for you
