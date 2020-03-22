@@ -38,6 +38,7 @@
             <img src="/img/derg.jpg" alt="base" height="200">
             <img src="/img/gog2.jpg" alt="base" height="200">
             <img src="/img/base2.jpg" alt="base" height="200">
+            <img src="/img/lapgem.jpg" alt="base" height="200">
             <hr>
             <p>
               <nuxt-link to="/">← return home</nuxt-link>
