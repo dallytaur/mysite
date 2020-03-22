@@ -2,7 +2,6 @@
   <div>
     <section class="section">
       <div class="container">
-        <h1 class="title is-1">FAQ</h1>
         <div class="content">
           <div class="box">
             <h2 class="title is-3"> commission info</h2>
