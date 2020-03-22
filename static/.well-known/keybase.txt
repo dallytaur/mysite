@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/glutnix
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://juniper.nz
+  * I am glutnix (https://keybase.io/glutnix) on keybase.
+  * I have a public key ASAQT-8V5O6vEHc2oe26_hnmcDtyKDEYsPSf-rsPBAvuYwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01110fe7d1ac884f57ffb0c2c49b55c32e742270d2f95578d3aba99a500775da45350a",
+      "host": "keybase.io",
+      "kid": "0120104fef15e4eeaf107736a1edbafe19e6703b72283118b0f49ffabb0f040bee630a",
+      "uid": "77fef9b91ced469843ebef8ae0625000",
+      "username": "glutnix"
+    },
+    "merkle_root": {
+      "ctime": 1574282051,
+      "hash": "cf45a743461787e2d7cd27edb860356219a5c1dceecc443d67caa4d331212c61134587bcf97ffa78c8d5c8ed72e868b5aa7793c22b0323708ea96b5843a0fd1e",
+      "hash_meta": "6d1148269a08dc8cdff722279f0d4450b4fb2a61fe845aba790b29af9dd6a6c9",
+      "seqno": 10360711
+    },
+    "service": {
+      "entropy": "Jq3jjg0GYW37PKpwkVk+uC9a",
+      "hostname": "juniper.nz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1574282056,
+  "expire_in": 504576000,
+  "prev": "2fbb182a40f22cbbae1539f0bb072b2fbbdd58844cf915a953b5567a1f32f9da",
+  "seqno": 59,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgEE/vFeTurxB3NqHtuv4Z5nA7cigxGLD0n/q7DwQL7mMKp3BheWxvYWTESpcCO8QgL7sYKkDyLLuuFTnwuwcrL7vdWIRM+RWpU7VWeh8y+drEIHK0bk76ysvGcj9BOqZvnvSwOkcZafspK9SNq6VUVgV9AgHCo3NpZ8RA+/F575dbECBzPk6wetJdffRgh4TN/SBAiBSEpUz39pOWUgs8BEUSWaQczwkoRE4B2doerj2802A/uotD4dTjDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAcq9uq2trWWHhjf3XV3tXWDU3P5XA7q+SkmBgi7VjGno3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/glutnix
+
+==================================================================
