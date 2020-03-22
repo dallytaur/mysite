@@ -16,11 +16,6 @@
 
             <hr>
 
-            <h2 class="title is-3">do u rp?</h2>
-            <p>Yes I love rp i love to have people give me some roleplay I'm into a wide variety of things although I
-              would like the have a few sentencess</p>
-
-            <hr>
 
             <nuxt-link to="/">← return home</nuxt-link>
             </p>

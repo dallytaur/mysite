@@ -73,7 +73,7 @@
                   <p><a href="https://t.me/alicetaur">Telegram alicetaur</a></p>
                   <p><a href=">https://www.instagram.com/dallytaur/">Instagram dallytaur</a></p>
                   <p><a href="https://twitter.com/alicetaur"> Twitter alicetaur</a></p>
-                   discord Nadia Mayer#6480
+                  <p></p> discord Nadia Mayer#6480</p>
 
 
                 </div>
