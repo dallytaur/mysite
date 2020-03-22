@@ -76,14 +76,7 @@
               <img src="/img/zerogdog.png">
 
             </div>
-            <div class="column">
-              <div class="card">
-                <div class="card-content">
-                  <h2 class="title">Commissioning status</h2>
-                  <iframe src="https://docs.google.com/spreadsheets/d/1wJcizJMieZutDaURsS1QtuE9ZZNHd8qnP3DMm4Nt4YA/gviz/tq?tqx=out:html&tq&gid=0" frameborder="0"></iframe>
 
-    
-                </div>
             <!-- <div class="column">
               <div class="card">
                 <div class="card-content">
@@ -94,8 +87,16 @@
             </div> -->
 
           </div>
+          <div class="column">
+            <div class="card">
+              <div class="card-content">
+                <h2 class="title">Commissioning status</h2>
+                <iframe src="https://docs.google.com/spreadsheets/d/1wJcizJMieZutDaURsS1QtuE9ZZNHd8qnP3DMm4Nt4YA/gviz/tq?tqx=out:html&tq&gid=0" frameborder="0"></iframe>
 
-
+  
+              </div>
+            </div>
+          </div>
         </div>
     </section>
   </div>
