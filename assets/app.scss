@@ -1,0 +1,45 @@
+/* @import 'utilities/mixins';
+/* CSS files add styling rules to your content */
+
+// Import Bulma's core
+@import "~bulma/sass/utilities/_all";
+
+$nadia-purple: #b00ea2;
+$nadia-fur: #f6f6f6;
+$nadia-spots: #2c2c2c;
+$nadia-hair: #f2e3c2;
+$nadia-top: #ffbbf4;
+$nadia-leash: #ee0910;
+
+// Set your colors
+$primary: $nadia-purple;
+$primary-invert: findColorInvert($primary);
+$twitter: #4099FF;
+$twitter-invert: findColorInvert($twitter);
+
+// Setup $colors to use as bulma classes (e.g. 'is-twitter')
+$colors: ( "white": ($white, $black), "black": ($black, $white), "light": ($light, $light-invert), "dark": ($dark, $dark-invert), "primary": ($primary, $primary-invert), "info": ($info, $info-invert), "success": ($success, $success-invert), "warning": ($warning, $warning-invert), "danger": ($danger, $danger-invert), "twitter": ($twitter, $twitter-invert) );
+
+// background
+$body-background-color: $nadia-top;
+// Links
+$link: $nadia-purple;
+$link-invert: $primary-invert;
+$link-focus-border: $primary;
+
+// Import Bulma and Buefy styles
+@import "~bulma";
+@import "~buefy/src/scss/buefy";
+
+p:not(:first-child):not(:last-child) {
+  margin: 1em 0;
+}
+
+figure {
+  font-size: .8em;
+  padding: .5em;
+
+  & > figcaption {
+    padding: .5em;
+  }
+}
