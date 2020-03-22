@@ -2,7 +2,7 @@
   <b-navbar type="is-primary" spaced>
     <template slot="brand">
       <b-navbar-item tag="nuxt-link" :to="{ path: '/' }">
-        <span class="title is-3">🐕 Nadia Mayer</span>
+        <span class="title is-3">🐕‍🦺🔧Nadia Mayer</span>
       </b-navbar-item>
     </template>
     <template slot="start"></template>
