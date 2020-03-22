@@ -30,7 +30,8 @@
               <br>
               +$30 for realistic base it's a little out of my comfort zone but I can manage.
             </p>
-
+            <p>Fillout the form below and ill messgae you as soo as i can./p>
+            <p><a href="https://forms.gle/VUmhgAhbns8B5suV8">-Submit here-</a></p>
             <img src="/img/opbase.jpg" alt="base" height="200">
             <img src="/img/gog.jpg" alt="base" height="200">
             <img src="/img/base.jpg" alt="base" height="200">

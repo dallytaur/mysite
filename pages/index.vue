@@ -24,7 +24,7 @@
                 things, 3D printingg, 3D modelling, electronics & technology I also play dungeons and dragons but I have
                 to
                 chance and enjoy the wonderful world of furries and fursuiting.
-                <img src="/img/zerogdog.png">
+
 
               </div>
             </div>
@@ -63,21 +63,18 @@
         </div>
 
 
-        <div class="container">
-          <div class="columns">
-
-            <div class="column">
-              <div class="card">
-                <div class="card-content">
-                  <h2 class="title"> contacts</h2>
-                  <p><a href="https://t.me/alicetaur">Telegram alicetaur</a></p>
-                  <p><a href=">https://www.instagram.com/dallytaur/">Instagram dallytaur</a></p>
-                  <p><a href="https://twitter.com/alicetaur"> Twitter alicetaur</a></p>
-                  <p></p> discord Nadia Mayer#6480</p>
 
 
-                </div>
-              </div>
+        <div class="column">
+          <div class="card">
+            <div class="card-content">
+              <h2 class="title"> contacts</h2>
+              <p><a href="https://t.me/alicetaur">Telegram alicetaur</a></p>
+              <p><a href=">https://www.instagram.com/dallytaur/">Instagram dallytaur</a></p>
+              <p><a href="https://twitter.com/alicetaur"> Twitter alicetaur</a></p>
+              <p></p> discord Nadia Mayer#6480</p>
+              <img src="/img/zerogdog.png">
+
             </div>
             <!-- <div class="column">
               <div class="card">
