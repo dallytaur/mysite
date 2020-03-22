@@ -4,10 +4,10 @@
       <div class="hero-body">
         <div class="container">
           <h1 class="title">
-            Nadia Mayer maker of things and nice to talk to too
+            Nadia Mayer
           </h1>
           <h2 class="subtitle">
-            site is WIP
+            maker of things and nice to talk to too
           </h2>
         </div>
       </div>
@@ -21,10 +21,11 @@
               <div class="card-content">
                 <h2 class="title">About Me</h2>
                 hello I am Nadia I am from South Australia Adelaide I am spot taur that is interested in constructing
-                things, 3D printingg, 3D modelling, electronics & technology I also play dungeons and dragons but I have to
+                things, 3D printingg, 3D modelling, electronics & technology I also play dungeons and dragons but I have
+                to
                 chance and enjoy the wonderful world of furries and fursuiting.
                 <img src="/img/zerogdog.png">
-              
+
               </div>
             </div>
           </div>
@@ -45,7 +46,7 @@
               <div class="card-content">
                 <h2 class="title">Roleplay</h2>
                 <p> I do personally enjoy many types of roleplay feel free to send me a message if you're keen I am
-                  pretty flexiblee and I will happily send you my reference information if interested. </p>
+                  pretty flexible and I will happily send you my reference information if interested. </p>
               </div>
             </div>
           </div>
@@ -60,7 +61,37 @@
           </div> -->
 
         </div>
-      </div>
+
+
+        <div class="container">
+          <div class="columns">
+
+            <div class="column">
+              <div class="card">
+                <div class="card-content">
+                  <h2 class="title"> contacts</h2>
+                  <p><a href="https://t.me/alicetaur">Telegram alicetaur</a></p>
+                  <p><a href=">https://www.instagram.com/dallytaur/">Instagram dallytaur</a></p>
+                  <p><a href="https://twitter.com/alicetaur"> Twitter alicetaur</a></p>
+                   discord Nadia Mayer#6480
+
+
+                </div>
+              </div>
+            </div>
+            <!-- <div class="column">
+              <div class="card">
+                <div class="card-content">
+                  <h2 class="title">Thing</h2>
+                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum dolorem modi in. </p>
+                </div>
+              </div>
+            </div> -->
+
+          </div>
+
+
+        </div>
     </section>
   </div>
 </template>
