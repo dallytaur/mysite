@@ -1,7 +1,7 @@
 import glob from 'glob';
 import path from 'path';
 
-const socialTitle = "Nadia Meyer";
+const socialTitle = "Nadia Mayer";
 const socialDescription = 'For all your Taur and Taur Accessories';
 
 /* https://github.com/jake-101/bael-template */
@@ -64,10 +64,10 @@ export default {
     runtimeCaching: [{}],
     meta: {
       name: socialTitle,
-      author: 'Nadia Meyer',
+      author: 'Nadia Mayer',
       description: socialDescription,
       lang: 'en-AU',
-      ogHost: 'https://nadiameyer.me',
+      ogHost: 'https://nadiaMayer.me',
       theme_color: '#ccffcc',
       twitterCard: 'summary',
       twitterCreator: '@alicetaur',
