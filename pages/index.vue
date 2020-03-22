@@ -28,7 +28,7 @@ hello I am Nadia I am from South Australia Adelaide I ama person that is interes
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <h2 class="title">commissioning</h2>
+                <h2 class="title">Commissioning</h2>
                 <p> I make a wide variety of things mostly 3D printed and painting related you can see them in my previous project gallery which is still to be made right now you can message me of things that interest you</p>
               </div>
             </div>
@@ -37,7 +37,7 @@ hello I am Nadia I am from South Australia Adelaide I ama person that is interes
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <h2 class="title"> roleplay</h2>
+                <h2 class="title">Roleplay</h2>
                 <p> I do personally enjoy many types of roleplay feel free to send me a message if you're keen I am pretty flexiblee and I will happily send you my reference information if interested. </p>
               </div>
             </div>
