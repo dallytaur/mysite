@@ -8,7 +8,7 @@
             <h2 class="title is-3">welcome tiny viewer</h2>
             <p></p>
  <div>      
- <div align = left >   
+ <div style="text-align:right">   
 <br>
 
  I am glad you spent the time to watch the video and click on my link as of now I have a few things that I can make for you
@@ -23,7 +23,7 @@
  currently I sell them into materials petg or tpu
 <br>
 <br>
-</div>
+</divstyle="text-align:left">
   <img src="/img/base.jpg" alt="base" height="200">
 <div>  
 <img>
