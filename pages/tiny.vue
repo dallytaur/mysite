@@ -10,7 +10,7 @@
             <div>
               <div>
                 <div>
-                  <div style="text-align:right">
+                  <div>
                     <br>
 
                     I am glad you spent the time to watch the video and click on my link as of now I have a few things
@@ -32,7 +32,7 @@
                     <br>
                   </div>
 
-                  <img src="/img/base.jpg" alt="base" height="200">
+                  <img src="/img/opbase.jpg" alt="base" height="200">
                 </div>
                 As of now I have three tiers.
                 <br>
