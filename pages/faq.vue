@@ -6,10 +6,24 @@
         <div class="content">
           <div class="box">
             <h2 class="title is-3">Can I draw your characters?</h2>
-            <p>You may draw them SFW without permission, but I do ask you share with me privately first before sharing it with the world! Use any reference material you can find on my Fur Affinity.</p>
+            <p>Yes, I would love it nsfw sfw kinky or not I dont mind at all</p>
 
             <hr>
-            <p><nuxt-link to="/">← return home</nuxt-link></p>
+
+            <h2 class="title is-3">Do u rp?</h2>
+            <p>Yes I love rp i love to have people give me some roleplay I'm into a wide variety of things although I
+              would like the have a few sentencess</p>
+
+            <hr>
+
+            <h2 class="title is-3">do u rp?</h2>
+            <p>Yes I love rp i love to have people give me some roleplay I'm into a wide variety of things although I
+              would like the have a few sentencess</p>
+
+            <hr>
+
+            <nuxt-link to="/">← return home</nuxt-link>
+            </p>
           </div>
         </div>
       </div>

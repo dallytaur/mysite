@@ -5,7 +5,7 @@
         <h1 class="title is-1">FAQ</h1>
         <div class="content">
           <div class="box">
-            <h2 class="title is-3">Can I draw your characters?</h2>
+            <h2 class="title is-3"> commission info</h2>
             <p>my main specialisations orientated around 3D printing and 3D design if you need a fursuit base fursuit
               parts mechanical parts for fursuit eyes I am open to people's ideas I can also do like finishing and
               painting if need be</p>
@@ -31,6 +31,13 @@
               <br>
               +$30 for realistic base it's a little out of my comfort zone but I can manage.
             </p>
+
+            <img src="/img/opbase.jpg" alt="base" height="200">
+            <img src="/img/gog.jpg" alt="base" height="200">
+            <img src="/img/base.jpg" alt="base" height="200">
+            <img src="/img/derg.jpg" alt="base" height="200">
+            <img src="/img/gog2.jpg" alt="base" height="200">
+            <img src="/img/base2.jpg" alt="base" height="200">
             <hr>
             <p>
               <nuxt-link to="/">← return home</nuxt-link>
