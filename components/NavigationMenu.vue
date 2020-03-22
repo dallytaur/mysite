@@ -9,9 +9,12 @@
 
     <template slot="end">
       <b-navbar-item tag="nuxt-link" :to="{ path: '/' }">Home</b-navbar-item>
-      <b-navbar-item tag="nuxt-link" :to="{ name: 'buyinfo' }">commissioning</b-navbar-item>
+      <b-navbar-item tag="nuxt-link" :to="{ name: 'buyinfo' }">Commissioning</b-navbar-item>
+      <b-navbar-item tag="nuxt-link" :to="{ path: 'https://forms.gle/L4RQLnoLgThRdD459' }"> submission form</b-navbar-item>
       <b-navbar-item tag="nuxt-link" :to="{ name: 'gallery' }">Gallery</b-navbar-item>
       <b-navbar-item tag="nuxt-link" :to="{ name: 'faq' }">FAQ</b-navbar-item>
+      
+      
     </template>
   </b-navbar>
 </template>
