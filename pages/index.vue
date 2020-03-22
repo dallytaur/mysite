@@ -4,7 +4,7 @@
       <div class="hero-body">
         <div class="container">
           <h1 class="title">
-            Primary title
+            Nadia Mayer
           </h1>
           <h2 class="subtitle">
             Primary subtitle
