@@ -5,7 +5,7 @@
         <h1 class="title is-1">FAQ</h1>
         <div class="content">
           <div class="box">
-            <h2 class="title is-3">welcome tiny viewer</h2>
+            <h2 class="title is-3">welcome tiny viewers</h2>
             <p></p>
             <div>
               <div>
@@ -66,6 +66,7 @@
                 parts, eye parts and so on you can also message me for custom things as well.
                 <br>
                 <br>
+                <img src="/img/gog.jpg" alt="base" height="200">
 
                 my contacts as a listed
                 <br>

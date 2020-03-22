@@ -20,7 +20,11 @@
             <div class="card">
               <div class="card-content">
                 <h2 class="title">About Me</h2>
-hello I am Nadia I am from South Australia Adelaide I ama person that is interested in constructing things 3D printingg 3D modelling electronics & technology I also play dungeons and dragons but I have to chance and enjoy the wonderful world of furries and fursuiting.
+                hello I am Nadia I am from South Australia Adelaide I am spot taur that is interested in constructing
+                things, 3D printingg, 3D modelling, electronics & technology I also play dungeons and dragons but I have to
+                chance and enjoy the wonderful world of furries and fursuiting.
+                <img src="/img/zerogdog.png">
+              
               </div>
             </div>
           </div>
@@ -29,7 +33,9 @@ hello I am Nadia I am from South Australia Adelaide I ama person that is interes
             <div class="card">
               <div class="card-content">
                 <h2 class="title">Commissioning</h2>
-                <p> I make a wide variety of things mostly 3D printed and painting related you can see them in my previous project gallery which is still to be made right now you can message me of things that interest you</p>
+                <p> I make a wide variety of things mostly 3D printed and painting related you can see them in my
+                  previous project gallery which is still to be made right now you can message me of things that
+                  interest you</p>
               </div>
             </div>
           </div>
@@ -38,11 +44,12 @@ hello I am Nadia I am from South Australia Adelaide I ama person that is interes
             <div class="card">
               <div class="card-content">
                 <h2 class="title">Roleplay</h2>
-                <p> I do personally enjoy many types of roleplay feel free to send me a message if you're keen I am pretty flexiblee and I will happily send you my reference information if interested. </p>
+                <p> I do personally enjoy many types of roleplay feel free to send me a message if you're keen I am
+                  pretty flexiblee and I will happily send you my reference information if interested. </p>
               </div>
             </div>
           </div>
-          
+
           <!-- <div class="column">
             <div class="card">
               <div class="card-content">
@@ -59,33 +66,33 @@ hello I am Nadia I am from South Australia Adelaide I ama person that is interes
 </template>
 
 <script lang="ts">
-import Vue from "vue";
+  import Vue from "vue";
 
-export default Vue.extend({
-  data() {
-    return {
-      isIOS: false,
-      showBSVQRCode: false
-    };
-  },
-  mounted() {
-    this.isIOS =
-      !!navigator &&
-      !!navigator.platform &&
-      /iPad|iPhone|iPod/.test(navigator.platform);
-  },
-  methods: {
-    async bitcoinLink() {
-      const href =
-        (this.$refs.bsvLink as HTMLElement).getAttribute("href") || "";
-      if (!href) return;
-      window.location.href = href;
+  export default Vue.extend({
+    data() {
+      return {
+        isIOS: false,
+        showBSVQRCode: false
+      };
+    },
+    mounted() {
+      this.isIOS =
+        !!navigator &&
+        !!navigator.platform &&
+        /iPad|iPhone|iPod/.test(navigator.platform);
+    },
+    methods: {
+      async bitcoinLink() {
+        const href =
+          (this.$refs.bsvLink as HTMLElement).getAttribute("href") || "";
+        if (!href) return;
+        window.location.href = href;
 
-      await new Promise(resolve =>
-        setTimeout(resolve, this.isIOS ? 3000 : 200)
-      );
-      this.showBSVQRCode = !this.showBSVQRCode;
+        await new Promise(resolve =>
+          setTimeout(resolve, this.isIOS ? 3000 : 200)
+        );
+        this.showBSVQRCode = !this.showBSVQRCode;
+      }
     }
-  }
-});
+  });
 </script>
