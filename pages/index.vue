@@ -4,10 +4,10 @@
       <div class="hero-body">
         <div class="container">
           <h1 class="title">
-            Nadia Mayer
+            Nadia Mayer maker of things and nice to talk to too
           </h1>
           <h2 class="subtitle">
-            Primary subtitle
+            site is WIP
           </h2>
         </div>
       </div>
@@ -19,8 +19,8 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <h2 class="title">Thing</h2>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum dolorem modi in. </p>
+                <h2 class="title">About Me</h2>
+hello I am Nadia I am from South Australia Adelaide I ama person that is interested in constructing things 3D printingg 3D modelling electronics & technology I also play dungeons and dragons but I have to chance and enjoy the wonderful world of furries and fursuiting.
               </div>
             </div>
           </div>
@@ -28,8 +28,8 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <h2 class="title">Thing</h2>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum dolorem modi in. </p>
+                <h2 class="title">commissioning</h2>
+                <p> I make a wide variety of things mostly 3D printed and painting related you can see them in my previous project gallery which is still to be made right now you can message me of things that interest you</p>
               </div>
             </div>
           </div>
@@ -37,8 +37,8 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <h2 class="title">Thing</h2>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum dolorem modi in. </p>
+                <h2 class="title"> roleplay</h2>
+                <p> I do personally enjoy many types of roleplay feel free to send me a message if you're keen I am pretty flexiblee and I will happily send you my reference information if interested. </p>
               </div>
             </div>
           </div>
