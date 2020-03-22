@@ -7,7 +7,8 @@
           <div class="box">
             <h2 class="title is-3">welcome tiny viewer</h2>
             <p></p>
-          
+ <div>      
+ <div>   
 <br>
 
  I am glad you spent the time to watch the video and click on my link as of now I have a few things that I can make for you
@@ -22,6 +23,12 @@
  currently I sell them into materials petg or tpu
 <br>
 <br>
+</div>
+  <img src="/img/base.jpg" alt="base" height="200">
+<div>  
+<img>
+<div>  
+</div>
  As of now I have three tiers.
 <br>
 <br>
@@ -29,19 +36,19 @@
 <br>
 <br>
 
- $125 for me to spend the time to design you a  a base based on your criteria with the condition but their base once completed is free to people to buy for the tier above.
+ $125 for me to spend the time to design you a base based on your criteria, with the condition that your base once completed is free to people to buy for the tier above.
 <br>
 <br>
 
- $350  for a true one-of-a-kind base purely to you you even get to keep the file for personal use and used in personaland commercial projects but not for individual resale
-
+ $350  for a true one-of-a-kind base owned purely by you you even get to keep the file for personal use 
+ 
 <br>
 <br>
 
- +$50 if you  opt for semi flexible tpu  which has the advantage of making it more crush resistance as well as slightly softing  compared to petg
+ +$50 if you opt for semi flexible tpu which has the advantage of making it more crush resistance as well as slightly softing compared to petg
 <br>
 <br>
- +$30  for  realistic base  it's a little out of my comfort zone but I can manage.
++$30  for  realistic base  it's a little out of my comfort zone but I can manage.
 <br>
 <br>
  all bases come with moving jaw as well as integrated hinge system feel free to opt out if you wish to not have moving jaw
