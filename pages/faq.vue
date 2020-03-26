@@ -15,7 +15,10 @@
               would like the have a few sentencess</p>
 
             <hr>
+            <h2 class="title is-3">Do you do art trades </h2>
+            <p> Yes I do talk to me about it in DMs</p>
 
+            <hr>
 
             <nuxt-link to="/">← return home</nuxt-link>
             </p>
