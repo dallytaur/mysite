@@ -68,27 +68,24 @@
                 <p><a href=">https://www.instagram.com/dallytaur/">Instagram dallytaur</a></p>
                 <p><a href="https://twitter.com/alicetaur"> Twitter alicetaur</a></p>
                 <p></p> Discord Nadia Mayer#6480</p>
-                <img src="/img/zerogdog.png">
+
 
               </div>
 
             </div>
           </div>
+
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <h2 class="title">Commissioning status</h2>
-                <iframe
-                  src="https://docs.google.com/spreadsheets/d/1wJcizJMieZutDaURsS1QtuE9ZZNHd8qnP3DMm4Nt4YA/gviz/tq?tqx=out:html&tq&gid=0"
-                  frameborder="0"></iframe>
-
-
+                <img src="/img/zerogdog.png">
               </div>
 
             </div>
-
           </div>
 
+
+        </div>
     </section>
   </div>
 </template>
