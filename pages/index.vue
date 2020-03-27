@@ -50,29 +50,31 @@
               </div>
             </div>
 
-            <div class="columns">
-              <div class="column">
-                <div class="card">
-                  <div class="card-content">
-                    <h2 class="title"> contacts</h2>
-                    <p><a href="https://t.me/alicetaur">Telegram alicetaur</a></p>
-                    <p><a href=">https://www.instagram.com/dallytaur/">Instagram dallytaur</a></p>
-                    <p><a href="https://twitter.com/alicetaur"> Twitter alicetaur</a></p>
-                    <p></p> Discord Nadia Mayer#6480</p>
 
 
-                  </div>
 
-                </div>
+          </div>
+        </div>
+
+        <div class="columns">
+          <div class="column">
+            <div class="card">
+              <div class="card-content">
+                <h2 class="title"> contacts</h2>
+                <p><a href="https://t.me/alicetaur">Telegram alicetaur</a></p>
+                <p><a href=">https://www.instagram.com/dallytaur/">Instagram dallytaur</a></p>
+                <p><a href="https://twitter.com/alicetaur"> Twitter alicetaur</a></p>
+                <p></p> Discord Nadia Mayer#6480</p>
+
+
               </div>
 
-              <div class="column">
-                <div class="card">
-                  <div class="card-content">
-                    <img src="/img/zerogdog.png">
-                  </div>
-
-                </div>
+            </div>
+          </div>
+          <div class="column">
+            <div class="card">
+              <div class="card-content">
+                <img src="/img/zerogdog.png">
               </div>
 
             </div>
