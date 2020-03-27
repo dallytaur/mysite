@@ -56,7 +56,7 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <h2 class="title"> contacts</h2>
+                <h2 class="title"> Contacts</h2>
                 <p><a href="https://t.me/alicetaur">Telegram alicetaur</a></p>
                 <p><a href=">https://www.instagram.com/dallytaur/">Instagram dallytaur</a></p>
                 <p><a href="https://twitter.com/alicetaur"> Twitter alicetaur</a></p>
