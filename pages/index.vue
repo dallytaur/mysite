@@ -49,10 +49,6 @@
                   pretty flexible and I will happily send you my reference information if interested. </p>
               </div>
             </div>
-
-
-
-
           </div>
         </div>
 
@@ -65,12 +61,10 @@
                 <p><a href=">https://www.instagram.com/dallytaur/">Instagram dallytaur</a></p>
                 <p><a href="https://twitter.com/alicetaur"> Twitter alicetaur</a></p>
                 <p></p> Discord Nadia Mayer#6480</p>
-
-
               </div>
-
             </div>
           </div>
+
           <div class="column">
             <div class="card">
               <div class="card-content">
@@ -80,7 +74,10 @@
             </div>
           </div>
         </div>
+
       </div>
+
+      
     </section>
   </div>
 </template>
