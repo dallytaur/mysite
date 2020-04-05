@@ -5,10 +5,10 @@
         <h1 class="title is-1">group furry commission</h1>
         <div class="content">
           <div class="box">
-            <h2 class="title is-3">tos and info</h2>
+            <h2 class="title is-3">TOS and Info</h2>
             <p>Thank you for finding the time to read this group commission.</p>
 
-            <p>Our artist for the commission of February March is Cervelet (https://www.furaffinity.net/user/cervelet/) and has requested to pay 10 euros(11 US dollars) person</p>
+            <p>Our artist for the commission of</p>
             
             <p>will be using PayPal for management of payments as well email and telegram for updates.</p>
             
@@ -30,7 +30,7 @@
             
             <p>>Any bad talk will result in consequences listed above but positive criticism is welcome.</p>
             
-            <h2 class="title is-3">the process of this commission will go as follows</h2>
+            <h2 class="title is-3">The process of this commission will go as follows</h2>
             
             <p>1.Submit a request by this document</p>
             
