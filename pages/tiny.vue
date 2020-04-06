@@ -51,7 +51,7 @@
                 <br>
 
                 +$50 if you opt for semi flexible tpu which has the advantage of making it more crush resistance as
-                well as slightly softing compared to petg<a href= https://www.instagram.com/p/B-My4eJFZ4F/>example here</href>
+                well as slightly softing compared to petg<a href= https://www.instagram.com/p/B-My4eJFZ4F>example here</href>
                 <br>
                 <br>
                 +$30 for realistic base it's a little out of my comfort zone but I can manage.

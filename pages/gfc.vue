@@ -6,6 +6,7 @@
         <div class="content">
           <div class="box">
             <h2 class="title is-3">TOS and Info</h2>
+            
             <p>Thank you for finding the time to read this group commission.</p>
 
             <p>Our artist for the commission of</p>
