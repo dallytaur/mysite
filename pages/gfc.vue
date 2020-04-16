@@ -13,23 +13,21 @@
             
             <p>will be using PayPal for management of payments as well email and telegram for updates.</p>
             
-            <p>the current theme of this drawing is "quarrantine party"</p>
+            
             
             <p>Before you fill out the form here is a few guidelines</p>
-            
-            <p>>there is about 60 slots available.</p>
+    
             
             <p>>This is an SFW commissionso so we must keep this clean.</p>
             
             <p>>preferably furry characters only.</p>
             
-            <p>>while we are open to pretty much any type of fursona we reserve the right to reject your character.</p>
+            <p>>while we are open to pretty much any type of fursona but we reserve the right to reject your character.</p>
             
             <p>>If you request more than one character in this commission make sure you fill out the form again with your new character.</p>
             
-            <p>>Any chargebacks will result in exclusion from this project and any future ones.</p>
+            <p>>Any uncalled for chargebacks will result in <b> exclusion</b> from this project and any future ones.</p>
             
-            <p>>Any bad talk will result in consequences listed above but positive criticism is welcome.</p>
             
             <h2 class="title is-3">The process of this commission will go as follows</h2>
             
@@ -39,15 +37,14 @@
             
             <p>3. The artist will then begin the commission there would be progress update released by email and telegram channel.</p>
             
-            <p>4. An email will be released for requesting edits of your character and you will be linked to another Google form like this one. followed by another round of progress updates.</p>
+            <p>4. An email will be released for requesting edits of your character followed by another round of progress updates.</p>
             
-            <p>There will be a second at it request email this will be your last chance to correct any errors in your character</p>
+            <p>5.There will be a second at it request email this will be your last chance to correct any errors in your character</p>
             
-            <p>Lastly the finished artwork piece will be sent by email and concluding the end of the project. Another one of these projects will be released after this one</p>
+            <p>6.Lastly the finished artwork piece will be sent by email and concluding the end of the project. Another one of these projects will be released after this one</p>
           
             <p><a href="https://t.me/GroupFurryCommissionProject">Telegram channel links for updates</a></p>
-            
-            <p><a href="https://forms.gle/Ckvqwb2UvWnLCBT2A">Click here to submit</a></p>
+            <p><a href="https://t.me/GroupFurryCommissionChat">Telegram group for chat and talking with your peers</a></p>
             <nuxt-link to="/">← return home</nuxt-link>
             </p>
           </div>
