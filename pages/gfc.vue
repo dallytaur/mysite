@@ -2,7 +2,7 @@
   <div>
     <section class="section">
       <div class="container">
-        <h1 class="title is-1">group furry commission</h1>
+        <h1 class="title is-1">Goup Furry Commission</h1>
         <div class="content">
           <div class="box">
             <h2 class="title is-3">TOS and Info</h2>
