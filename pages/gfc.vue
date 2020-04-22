@@ -8,16 +8,11 @@
             <h2 class="title is-3">TOS and Info</h2>
             
             <p>Thank you for finding the time to read this group commission.</p>
-
-            <p>Our artist for the commission of</p>
             
             <p>will be using PayPal for management of payments as well email and telegram for updates.</p>
             
-            
-            
             <p>Before you fill out the form here is a few guidelines</p>
-    
-            
+  
             <p>>This is an SFW commissionso so we must keep this clean.</p>
             
             <p>>preferably furry characters only.</p>
@@ -45,6 +40,12 @@
           
             <p><a href="https://t.me/GroupFurryCommissionProject">Telegram channel links for updates</a></p>
             <p><a href="https://t.me/GroupFurryCommissionChat">Telegram group for chat and talking with your peers</a></p>
+
+            <h2 class="title is-3">older art</h2>
+
+            <img src="/img/gfc1.png" alt="base" height="200">
+            <img src="/img/gfc2.png" alt="base" height="200">
+
             <nuxt-link to="/">← return home</nuxt-link>
             </p>
           </div>
