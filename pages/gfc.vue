@@ -38,12 +38,18 @@
             
             <p>6.Lastly the finished artwork piece will be sent by email and concluding the end of the project. Another one of these projects will be released after this one</p>
           
+
+           
             <p><a href="https://t.me/GroupFurryCommissionProject">Telegram channel links for updates</a></p>
+
+
+
             <p><a href="https://t.me/GroupFurryCommissionChat">Telegram group for chat and talking with your peers</a></p>
 
             <h2 class="title is-3">older art</h2>
-
+            <p>this art was made by Mmissy Merlin <a href="https://twitter.com/MissyMerlin"twitter here</p>
             <img src="/img/gfc1.png" alt="base" height="200">
+            <p>this art was made by cervelet <a href="https://www.furaffinity.net/user/cervelet/"FA</p>
             <img src="/img/gfc2.png" alt="base" height="200">
 
             <nuxt-link to="/">← return home</nuxt-link>
