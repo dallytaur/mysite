@@ -46,8 +46,8 @@
 
             <p><a href="https://t.me/GroupFurryCommissionChat">Telegram group for chat and talking with your peers</a></p>
 
-            <h2 class="title is-3">Older rt</h2>
-            <p>This art was made by Missy Merlin <a href="https://twitter.com/MissyMerlin"Twitter Here</a></p>
+            <h2 class="title is-3">Older art</h2>
+            <p>This art was made by Missy Merlin <a href="https://twitter.com/MissyMerlin">Twitter Here</a></p>
             <img src="/img/gfc1.png" alt="base" height="200">
             <p>This art was made by cervelet(still a wip)<a href="https://www.furaffinity.net/user/cervelet/">FA here</a></p>
             <img src="/img/gfc2.png" alt="base" height="200">
