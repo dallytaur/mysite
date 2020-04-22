@@ -12,7 +12,7 @@
       <b-navbar-item tag="nuxt-link" :to="{ name: 'buyinfo' }">Commissioning</b-navbar-item>
       <!--<b-navbar-item tag="nuxt-link" :to="{ name: 'gallery' }">Gallery</b-navbar-item>-->
       <b-navbar-item tag="nuxt-link" :to="{ name: 'faq' }">FAQ</b-navbar-item>
-      <b-navbar-item tag="nuxt-link" :to="{ name: 'talktome' }">Contact me</b-navbar-item>
+      <b-navbar-item tag="nuxt-link" :to="{ name: 'talktome' }">Contact Me</b-navbar-item>
       <!--<b-navbar-item tag="nuxt-link" :to="{ name: 'gfc' }">Group furry commission project</b-navbar-item>-->
     </template>
   </b-navbar>
