@@ -46,10 +46,10 @@
 
             <p><a href="https://t.me/GroupFurryCommissionChat">Telegram group for chat and talking with your peers</a></p>
 
-            <h2 class="title is-3">older art</h2>
-            <p>this art was made by Mmissy Merlin <a href="https://twitter.com/MissyMerlin"twitter here</p>
+            <h2 class="title is-3">Older rt</h2>
+            <p>This art was made by Missy Merlin <a href="https://twitter.com/MissyMerlin"twitter here</p>
             <img src="/img/gfc1.png" alt="base" height="200">
-            <p>this art was made by cervelet <a href="https://www.furaffinity.net/user/cervelet/"FA</p>
+            <p>This art was made by cervelet(still as -<a href="https://www.furaffinity.net/user/cervelet/"FA</p>
             <img src="/img/gfc2.png" alt="base" height="200">
 
             <nuxt-link to="/">← return home</nuxt-link>
