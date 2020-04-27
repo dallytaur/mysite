@@ -12,7 +12,7 @@
 
             <p>
               $75 for a pre-made base from an existing stock
-
+            <br>
 
               $100 for me to spend the time to design you a base based on your criteria, with the condition that
               your base once completed is free to people to buy for the tier above.
@@ -25,7 +25,7 @@
               <br>
 
               +$50 if you opt for semi flexible tpu which has the advantage of making it more crush resistance as
-              well as slightly softing compared to petg <a href= https://www.instagram.com/p/B-My4eJFZ4F>example here</href>
+              well as slightly softing compared to petg <a href= https://www.instagram.com/p/B-My4eJFZ4F>example here</a>
               <br>
               <br>
               +$30 for realistic base it's a little out of my comfort zone but I can manage.
