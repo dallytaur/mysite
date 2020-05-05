@@ -26,7 +26,7 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <img src="/img/proto1/2.JPG">
+               <p>made the hips and chest plate out of eva foram and glue up.</p>
               </div>
 
             </div>
@@ -64,17 +64,18 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <p>test data</p>
+                <p>First coats of paint it a quite rought so i've got to learn and try again for a V2</p>
               </div>
 
             </div>
           </div>
         </div>
+
         <div class="columns">
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <img src="/img/proto1/7.JPG">
+                <p>Chest plate painted up I also added one of the rings for the hips also hadorder the eletronics</p>
 
               </div>
             </div>
@@ -97,8 +98,35 @@
           </div>
         </div>
 
+        <div class="columns">
+          <div class="column">
+            <div class="card">
+              <div class="card-content">
+                <p>Hip ring beiong printed had print 8 of them</p>
 
-        
+              </div>
+            </div>
+          </div>
+
+          <div class="column">
+            <div class="card">
+              <div class="card-content">
+                <img src="/img/proto1/10.JPG">
+              </div>
+            </div>
+          </div>
+
+          <div class="column">
+            <div class="card">
+              <div class="card-content">
+                <img src="/img/proto1/9.JPG">
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
         </div>
 
 
