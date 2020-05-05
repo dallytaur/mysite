@@ -7,7 +7,7 @@
             proto suit V1
           </h1>
           <h2 class="subtitle">
-            First try at foam work WIP started 5/5/2020
+            First try at foam work WIP started 5/5/2020.
           </h2>
         </div>
       </div>

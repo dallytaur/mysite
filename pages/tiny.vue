@@ -82,8 +82,8 @@
 
                 feel free to message me on any platform if you're intereste with buying anything
 
-                <p><a href="https://forms.gle/VUmhgAhbns8B5suV8">-Submit here-</a></p>
-                <hr>
+           
+          
                 <p>
                   <nuxt-link to="/">← return home</nuxt-link>
                 </p>
