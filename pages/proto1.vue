@@ -14,13 +14,11 @@
     </section>
     <section class="section">
       <div class="container">
-
         <div class="columns">
           <div class="column">
             <div class="card">
               <div class="card-content">
                 <img src="/img/proto1/1.JPG">
-
               </div>
             </div>
           </div>
@@ -28,19 +26,23 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <img src="/img/proto1/1.JPG">
+                <img src="/img/proto1/2.JPG">
               </div>
+
             </div>
           </div>
 
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <img src="/img/proto1/1.JPG">
+                <img src="/img/proto1/4.JPG">
               </div>
+
             </div>
           </div>
         </div>
+
+
         <div class="columns">
           <div class="column">
             <div class="card">
@@ -68,7 +70,6 @@
             </div>
           </div>
         </div>
-
         <div class="columns">
           <div class="column">
             <div class="card">
