@@ -125,10 +125,6 @@
           </div>
         </div>
 
-
-
-
-
         <div class="columns">
 
           <div class="column">
@@ -139,7 +135,7 @@
             </div>
           </div>
 
-          
+
           <div class="column">
             <div class="card">
               <div class="card-content">
