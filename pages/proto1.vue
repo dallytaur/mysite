@@ -7,7 +7,7 @@
             Nadia Mayer
           </h1>
           <h2 class="subtitle">
-            maker of things and nice to talk to too
+            proto suit V1
           </h2>
         </div>
       </div>
