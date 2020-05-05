@@ -7,7 +7,7 @@
             proto suit V1
           </h1>
           <h2 class="subtitle">
-            First try at foam work WIP started 5/5/2020.
+            First try at foam work WIP started 3/5/2020.
           </h2>
         </div>
       </div>
@@ -26,7 +26,7 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-               <p>made the hips and chest plate out of eva foam and glue up.</p>
+               <p>3/5/2020 made the hips and chest plate out of eva foam and glue up.</p>
               </div>
 
             </div>
@@ -64,7 +64,7 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <p>First coats of paint it a quite rought so i've got to learn and try again for a V2</p>
+                <p>4/5/2020 First coats of paint it a quite rought so i've got to learn and try again for a V2</p>
               </div>
 
             </div>
@@ -102,7 +102,7 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <p>Hip ring being printed had print 8 of them</p>
+                <p>5/5/2020 Hip ring being printed had print 8 of them</p>
 
               </div>
             </div>
@@ -126,6 +126,34 @@
         </div>
 
 
+        <div class="column">
+          <div class="card">
+            <div class="card-content">
+              <img src="/img/proto1/16.JPG">
+            </div>
+          </div>
+        </div>
+
+
+        <div class="columns">
+          <div class="column">
+            <div class="card">
+              <div class="card-content">
+                <p>5/5/2020 photos and some idea making on fur colurs</p>
+
+              </div>
+            </div>
+          </div>
+
+
+          <div class="column">
+            <div class="card">
+              <div class="card-content">
+                <img src="/img/proto1/17.JPG">
+              </div>
+            </div>
+          </div>
+        </div>
 
         </div>
 
