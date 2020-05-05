@@ -28,7 +28,7 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <img src="/img/proto1/1">
+                <img src="/img/proto1/1.JPG">
               </div>
             </div>
           </div>
@@ -36,7 +36,7 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <img src="/img/proto1/1">
+                <img src="/img/proto1/1.JPG">
               </div>
             </div>
           </div>
@@ -45,7 +45,7 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <img src="/img/proto1/1">
+                <img src="/img/proto1/5.JPG">
               </div>
             </div>
           </div>
@@ -53,7 +53,7 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <img src="/img/proto1/1">
+                <img src="/img/proto1/6.JPG">
               </div>
 
             </div>
@@ -62,9 +62,36 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <img src="/img/proto1/1">
+                <p>test data</p>
               </div>
 
+            </div>
+          </div>
+        </div>
+
+        <div class="columns">
+          <div class="column">
+            <div class="card">
+              <div class="card-content">
+                <img src="/img/proto1/7.JPG">
+
+              </div>
+            </div>
+          </div>
+
+          <div class="column">
+            <div class="card">
+              <div class="card-content">
+                <img src="/img/proto1/11.JPG">
+              </div>
+            </div>
+          </div>
+
+          <div class="column">
+            <div class="card">
+              <div class="card-content">
+                <img src="/img/proto1/14.JPG">
+              </div>
             </div>
           </div>
         </div>
@@ -72,7 +99,7 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <img src="/img/proto1/1">
+                <img src="/img/proto1/1.JPG">
               </div>
             </div>
           </div>
@@ -80,7 +107,7 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <img src="/img/proto1/1">
+                <img src="/img/proto1/1.JPG">
               </div>
 
             </div>
@@ -89,40 +116,12 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <img src="/img/proto1/1">
+                <img src="/img/proto1/1.JPG">
               </div>
 
             </div>
           </div>
         </div>
-        <div class="columns">
-          <div class="column">
-            <div class="card">
-              <div class="card-content">
-                <img src="/img/proto1/1">
-              </div>
-            </div>
-          </div>
-
-          <div class="column">
-            <div class="card">
-              <div class="card-content">
-                <img src="/img/proto1/1">
-              </div>
-
-            </div>
-          </div>
-
-          <div class="column">
-            <div class="card">
-              <div class="card-content">
-                <img src="/img/proto1/1">
-              </div>
-
-            </div>
-          </div>
-        </div>
-
 
 
     </section>
