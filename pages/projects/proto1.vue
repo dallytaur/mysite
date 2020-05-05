@@ -4,10 +4,10 @@
       <div class="hero-body">
         <div class="container">
           <h1 class="title">
-            Nadia Mayer
+            proto suit V1
           </h1>
           <h2 class="subtitle">
-            proto suit V1
+            First try at foam work WIP started 5/5/2020
           </h2>
         </div>
       </div>
