@@ -33,8 +33,6 @@
 
             <p>I also make other thing such a goggles and anything you wish to ask just DM me.</p>
 
-            <p>Fillout the form below and ill messgae you as soo as i can.</p>
-            <p><a href="https://forms.gle/VUmhgAhbns8B5suV8">-Submit here-</a></p>
 
 
             <img src="/img/opbase.jpg" alt="base" height="200">

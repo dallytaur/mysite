@@ -19,7 +19,7 @@
             <div class="card">
               <div class="card-content">
                 <img src="/img/proto1/13.JPG">
-                <p>My second fursuit with body suit I made and my 4th finshed head</p>
+                <p><a href= https://nadiamayer.me/projects/proto1>My second fursuit with bodysuit I made and my 4th finshed head</a></p>
               </div>
             </div>
           </div>
