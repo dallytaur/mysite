@@ -4,7 +4,7 @@
       <div class="hero-body">
         <div class="container">
           <h1 class="title">
-            my projects
+            My projects
           </h1>
           <h2 class="subtitle">
             List of commissions and personal projects

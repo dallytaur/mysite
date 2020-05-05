@@ -26,7 +26,7 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-               <p>made the hips and chest plate out of eva foram and glue up.</p>
+               <p>made the hips and chest plate out of eva foam and glue up.</p>
               </div>
 
             </div>
@@ -75,7 +75,7 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <p>Chest plate painted up I also added one of the rings for the hips also hadorder the eletronics</p>
+                <p>Chest plate painted up I also added one of the rings for the hips also had order the eletronics</p>
 
               </div>
             </div>
@@ -102,7 +102,7 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <p>Hip ring beiong printed had print 8 of them</p>
+                <p>Hip ring being printed had print 8 of them</p>
 
               </div>
             </div>

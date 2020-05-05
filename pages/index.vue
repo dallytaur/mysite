@@ -20,10 +20,9 @@
             <div class="card">
               <div class="card-content">
                 <h2 class="title">About Me</h2>
-                hello I am Nadia I am from South Australia Adelaide I am spot taur that is interested in constructing
-                things, 3D printingg, 3D modelling, electronics & technology I also play dungeons and dragons but I have
-                to
-                chance and enjoy the wonderful world of furries and fursuiting.
+                Hello I am Nadia I am from South Australia Adelaide I am spot taur that is interested in constructing
+                things, 3D printing, 3D modelling, electronics & technology I also play dungeons and dragons but I never have a have
+                to chance and enjoy the wonderful world of furries and fursuiting.
 
 
               </div>
@@ -61,6 +60,15 @@
                 <p><a href=">https://www.instagram.com/dallytaur/">Instagram dallytaur</a></p>
                 <p><a href="https://twitter.com/alicetaur"> Twitter alicetaur</a></p>
                 <p></p> Discord Nadia Mayer#6480</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="column">
+            <div class="card">
+              <div class="card-content">
+                <h2 class="title">project listing</h2>
+                <p><a href="https://nadiamayer.me/projects/"> you can find a listing of my projects here</a></p>
               </div>
             </div>
           </div>
