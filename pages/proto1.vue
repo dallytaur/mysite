@@ -19,7 +19,7 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <img src="/img/proto1/1.jpg">
+                <img src="/img/proto1/1.JPG">
 
               </div>
             </div>
