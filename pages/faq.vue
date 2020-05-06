@@ -20,6 +20,10 @@
 
             <hr>
 
+            <h2 class="title is-3"> why is your spelling atrocious</h2>
+            <p> I've had a very rough childhood I rather not go into details I just like the ability to type well I try my best to my can and I usually use speech-to-text to type large swaths of text  sorry if that inconvenience you but I try my best.</p>
+
+            <hr>
             <nuxt-link to="/">← return home</nuxt-link>
             </p>
           </div>
