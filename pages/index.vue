@@ -7,7 +7,7 @@
             Nadia Mayer
           </h1>
           <h2 class="subtitle">
-            maker of things and nice to talk to too
+            Maker of things
           </h2>
         </div>
       </div>
@@ -20,8 +20,8 @@
             <div class="card">
               <div class="card-content">
                 <h2 class="title">About Me</h2>
-                Hello I am Nadia I am from South Australia Adelaide I am spot taur that is interested in constructing
-                things, 3D printing, 3D modelling, electronics & technology I also play dungeons and dragons but I never have a have
+                Hello I am Nadia I am from South Australia, Adelaide I am spotty taur that is interested in constructing
+                things, 3D printing, 3D modelling, electronics & technology. I also play dungeons and dragons but I never have a have
                 to chance and enjoy the wonderful world of furries and fursuiting.
 
 
@@ -32,7 +32,7 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <h2 class="title">Commissioning</h2>
+                <h2 class="title">Commissions</h2>
                 <p> I make a wide variety of things mostly 3D printed and painting related you can see them in my
                   previous project gallery which is still to be made right now you can message me of things that
                   interest you</p>
@@ -59,7 +59,7 @@
                 <p><a href="https://t.me/alicetaur">Telegram alicetaur</a></p>
                 <p><a href=">https://www.instagram.com/dallytaur/">Instagram dallytaur</a></p>
                 <p><a href="https://twitter.com/alicetaur"> Twitter alicetaur</a></p>
-                <p></p> Discord Nadia Mayer#6480</p>
+                <p> Discord Nadia Mayer#6480</p>
               </div>
             </div>
           </div>
@@ -67,8 +67,8 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <h2 class="title">project listing</h2>
-                <p><a href="https://nadiamayer.me/projects/"> you can find a listing of my projects here</a></p>
+                <h2 class="title">Project Logs</h2>
+                <p><a href="https://nadiamayer.me/projects/"> You can find a listing of my projects here.</a></p>
               </div>
             </div>
           </div>
