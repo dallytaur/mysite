@@ -28,7 +28,7 @@
             <div class="card">
               <div class="card-content">
                 <img src="/img/gfc1.png">
-                Commissioning project where I lead an artist and 10-60 Commissioniers  I handle all chatter with everyone.
+                <p><a href= https://nadiamayer.me/projects/proto1>Commissioning project where I lead an artist and 10-60 Commissioniers  I handle all chatter with everyone.</a>
               </div>
 
             </div>
