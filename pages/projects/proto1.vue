@@ -154,8 +154,39 @@
             </div>
           </div>
         </div>
+        <div class="columns">
+          <div class="column">
+            <div class="card">
+              <div class="card-content">
+                <p>6/5/2020 Tail is made and the base is mostly done. I just need to fur it and add a plug.</p>
 
+              </div>
+            </div>
+          </div>
+
+          <div class="column">
+            <div class="card">
+              <div class="card-content">
+                <img src="/img/proto1/18.JPG">
+              </div>
+            </div>
+          </div>
+
+
+
+
+
+          <div class="column">
+            <div class="card">
+              <div class="card-content">
+                <img src="/img/proto1/19.JPG">
+              </div>
+            </div>
+          </div>
         </div>
+       
+      
+      </div>
 
 
     </section>
