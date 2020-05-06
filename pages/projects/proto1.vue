@@ -184,6 +184,36 @@
             </div>
           </div>
         </div>
+        <div class="columns">
+          <div class="column">
+            <div class="card">
+              <div class="card-content">
+                <img src="/img/proto1/20.JPG">
+
+              </div>
+            </div>
+          </div>
+
+          <div class="column">
+            <div class="card">
+              <div class="card-content">
+                <img src="/img/proto1/22.JPG">
+              </div>
+            </div>
+          </div>
+
+
+
+
+
+          <div class="column">
+            <div class="card">
+              <div class="card-content">
+                <img src="/img/proto1/21.JPG">
+              </div>
+            </div>
+          </div>
+        </div>
        
       
       </div>
