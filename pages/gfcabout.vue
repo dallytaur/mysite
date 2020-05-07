@@ -2,7 +2,7 @@
   <div>
     <section class="section">
       <div class="container">
-        <h1 class="title is-1">Goup Furry Commission</h1>
+        <h1 class="title is-1">Group Furry Commission</h1>
         <div class="content">
           <div class="box">
 
@@ -10,7 +10,7 @@
 
             <p>The concept of The project is to provide a benefit between both artists and commissioners artists benefit
               by having a singular task with a massive pay off, while alternatively the commissioners gain benefit and
-              in a discount and being part of a large piece of work</p>
+              in a discount and being part of a large piece of work.</p>
 
             <P>My job as part of the project is to provide verification of artists and ommissioners, a community as well
               as organisation and communication between the buyer of the project and the artist. to take load off the
