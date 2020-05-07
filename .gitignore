@@ -88,3 +88,6 @@ sw.*
 
 # Mac OSX
 .DS_Store
+
+#google drive
+*.driveupload
