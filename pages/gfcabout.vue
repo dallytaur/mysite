@@ -36,7 +36,7 @@
 
             <p>This art was made by Missy Merlin <a href="https://twitter.com/MissyMerlin">Twitter Here</a></p>
             <img src="/img/gfc1.png" alt="base" height="200">
-            <p>This art was made by cervelet<a href="https://www.furaffinity.net/user/cervelet/">FA here</a></p>
+            <p>This art was made by cervelet <a href="https://www.furaffinity.net/user/cervelet/">FA here</a></p>
             <img src="/img/gfc2.jpg" alt="base" height="200">
 
             <nuxt-link to="/">← return home</nuxt-link>
