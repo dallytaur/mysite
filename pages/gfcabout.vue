@@ -12,8 +12,8 @@
               by having a singular task with a massive pay off, while alternatively the commissioners gain benefit and
               in a discount and being part of a large piece of work.</p>
 
-            <P>My job as part of the project is to provide verification of artists and ommissioners, a community as well
-              as organisation and communication between the buyer of the project and the artist. to take load off the
+            <P>My job as part of the project is to provide verification of artists and commissioners, a community as well
+              as organisation and communication between the buyer of the project and the artist. To take load off the
               artist I also gather and collate reference information about each persons characters, streamlining the work.</p>
 
             <p>As of now we have had two projects done with a third in The works done by some very great artists in my
@@ -23,8 +23,8 @@
             <p>If you are commissioner and you want to get involved with the project feel free to have a look at the
               links to the progress chats as well as the general chatter channel as well.</p>
 
-            <p>If you are a artist wishing to  host one of these projects feel free to message me under the
-              contacts page on my website you can see it in the top bar.</p>
+            <p>If you are a artist wishing to host one of these projects feel free to message me under the
+              contacts page <a href="https://nadiamayer.me/talktome">here</a></p>
 
 
             <p><a href="https://t.me/GroupFurryCommissionProject">Telegram channel links for updates</a></p>
