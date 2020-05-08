@@ -55,7 +55,7 @@
               <div class="card-content">
                 <img src="/img/shop/4.png">
                 <p>Opossum fursuit base 75$</p>
-                <p>Used by tiny1badger <a href="https://www.youtube.com/watch?v=wDnJUBMMOOU">youtube video</a>.</p><p>
+                <p>Used by tiny1badger <a href="https://www.youtube.com/watch?v=wDnJUBMMOOU">Youtube video</a>.</p><p>
                 <p>Ref #4</p>
               </div>
             </div>
@@ -65,7 +65,7 @@
             <div class="card">
               <div class="card-content">
                 <img src="/img/shop/5.png">
-                <p>NOT A BASE dragon puppet base with eye mechanism $150.</p>
+                <p>NOT A BASE dragon puppet base with with moving eyes $150.</p>
                 <p>ref #5</p>
               </div>
 
@@ -96,7 +96,7 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <p>If you have an idea for a item feel free to message I can makde a wide rage of things <a href="https://nadiamayer.me/talktome">messgage me here</a>.</p>
+                <p>If you have an idea for a item feel free to message I can makde a wide rage of things. <a href="https://nadiamayer.me/talktome">talk to me here</a>.</p>
               </div>
             </div>
           </div>
@@ -108,8 +108,7 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc2c7ZVdvuVNeAdsm8409AZwMMf0RAv7gnztBfKW3qnVmYpzw/viewform?embedded=true" width="640" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
+                <p>wanna buy something <a href="https://forms.gle/iCJLNPpgKgta7ijDA">Click Here</a> and make sure you list your ref numer</p>
               </div>
             </div>
           </div>
