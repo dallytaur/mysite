@@ -7,7 +7,7 @@
             Nadia's shop
           </h1>
           <h2 class="subtitle">
-            If you want to to order form me click the google form link and submit rhe order ref number
+            If you want to to order form me click the google form link and submit the order ref number
           </h2>
         </div>
       </div>
