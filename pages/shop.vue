@@ -39,7 +39,7 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <img src="/img/shop/2.png">
+                <img src="/img/shop/3.png">
                 <p>Dog2 fursuit base moving jaw 75$.</p>
                 <p>ref #3</p>
               </div>
@@ -53,7 +53,7 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <img src="/img/shop/3.png">
+                <img src="/img/shop/4.png">
                 <p>Opossum fursuit base 75$</p>
                 <p>Used by tiny1badger<a href="https://www.youtube.com/watch?v=wDnJUBMMOOU">youtube video</a>.</p><p>
                 <p>Ref #4</p>
