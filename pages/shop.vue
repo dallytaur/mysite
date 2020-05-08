@@ -65,7 +65,7 @@
             <div class="card">
               <div class="card-content">
                 <img src="/img/shop/5.png">
-                <p>NOT A BASE dragon puppet base with with moving eyes $150.</p>
+                <p>NOT A FURSUIT BASE dragon puppet base with with moving eyes $150.</p>
                 <p>ref #5</p>
               </div>
 
