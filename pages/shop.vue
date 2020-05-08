@@ -55,8 +55,9 @@
               <div class="card-content">
                 <img src="/img/shop/4.png">
                 <p>Opossum fursuit base 75$</p>
-                <p>Used by tiny1badger <a href="https://www.youtube.com/watch?v=wDnJUBMMOOU">Youtube video</a>.</p><p>
-                <p>Ref #4</p>
+                <p>Used by tiny1badger <a href="https://www.youtube.com/watch?v=wDnJUBMMOOU">Youtube video</a>.</p>
+                <p>
+                  <p>Ref #4</p>
               </div>
             </div>
           </div>
@@ -75,7 +76,8 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <p>Don't see one you like for $125 I can make you your own desgin <a href="https://nadiamayer.me/talktome">messgage me here</a>.</p>
+                <p>Don't see one you like for $125 I can make you your own desgin <a
+                    href="https://nadiamayer.me/talktome">messgage me here</a>.</p>
               </div>
 
             </div>
@@ -87,7 +89,8 @@
             <div class="card">
               <div class="card-content">
                 <img src="/img/shop/7.jpg">
-                <p>Fursuit googles scaled for use with fursuit or cosplay won't fit on your eyes unlesss in suit fit most fursuits $70.</p>
+                <p>Fursuit googles scaled for use with fursuit or cosplay won't fit on your eyes unlesss in suit fit
+                  most fursuits $70.</p>
                 <p>ref #7</p>
               </div>
             </div>
@@ -96,24 +99,38 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <p>If you have an idea for a item feel free to message I can makde a wide rage of things. <a href="https://nadiamayer.me/talktome">talk to me here</a>.</p>
+                <p>If you have an idea for a item feel free to message I can makde a wide rage of things. <a
+                    href="https://nadiamayer.me/talktome">talk to me here</a>.</p>
               </div>
             </div>
           </div>
-        </div>
 
-        
-      </div>
- <div class="columns">
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <p>wanna buy something <a href="https://forms.gle/iCJLNPpgKgta7ijDA">Click Here</a> and make sure you list your ref numer</p>
+                <img src="/img/shop/8.png">
+
+                <p>Cat fursuit base $75.</p>
+                <p>ref #8</p>
               </div>
             </div>
           </div>
         </div>
 
+
+
+        <div class="columns">
+          <div class="column">
+            <div class="card">
+              <div class="card-content">
+                <p>wanna buy something <a href="https://forms.gle/iCJLNPpgKgta7ijDA">Click Here</a> and make sure you
+                  list
+                  your ref number</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </section>
   </div>
 </template>
