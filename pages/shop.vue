@@ -55,7 +55,7 @@
               <div class="card-content">
                 <img src="/img/shop/4.png">
                 <p>Opossum fursuit base 75$</p>
-                <p>Used by tiny1badger<a href="https://www.youtube.com/watch?v=wDnJUBMMOOU">youtube video</a>.</p><p>
+                <p>Used by tiny1badger <a href="https://www.youtube.com/watch?v=wDnJUBMMOOU">youtube video</a>.</p><p>
                 <p>Ref #4</p>
               </div>
             </div>
@@ -75,7 +75,7 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <p>Don't see one you like for $125 i can make you your own desgin <a href="https://nadiamayer.me/talktome">messgage me here</a>.</p>
+                <p>Don't see one you like for $125 I can make you your own desgin <a href="https://nadiamayer.me/talktome">messgage me here</a>.</p>
               </div>
 
             </div>
@@ -86,18 +86,8 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <img src="/img/shop/6.png">
+                <img src="/img/shop/7.jpg">
                 <p>Fursuit googles scaled for use with fursuit or cosplay wont fit on your eyes unlesss in suit fist most fursuits $70.</p>
-                <p>ref #7</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="column">
-            <div class="card">
-              <div class="card-content">
-                <img src="/img/shop/7.png">
-                <p>Fursuit googles scaled for use with fursuit or cosplay wont fit on your eyes unlesss in suit fit most fursuits $70 edits are extra.</p>
                 <p>ref #7</p>
               </div>
             </div>
