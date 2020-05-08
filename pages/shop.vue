@@ -87,7 +87,7 @@
             <div class="card">
               <div class="card-content">
                 <img src="/img/shop/7.jpg">
-                <p>Fursuit googles scaled for use with fursuit or cosplay wont fit on your eyes unlesss in suit fist most fursuits $70.</p>
+                <p>Fursuit googles scaled for use with fursuit or cosplay won't fit on your eyes unlesss in suit fit most fursuits $70.</p>
                 <p>ref #7</p>
               </div>
             </div>
