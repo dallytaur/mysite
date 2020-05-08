@@ -14,6 +14,7 @@
       <b-navbar-item tag="nuxt-link" :to="{ name: 'faq' }">FAQ</b-navbar-item>
       <b-navbar-item tag="nuxt-link" :to="{ name: 'talktome' }">Contact Me</b-navbar-item>      
       <b-navbar-item tag="nuxt-link" :to="{ path: '/projects' }">Projects</b-navbar-item>
+      <b-navbar-item tag="nuxt-link" :to="{ path: '/shop' }">Shop</b-navbar-item>
       <!--<b-navbar-item tag="nuxt-link" :to="{ name: 'gfc' }">Group furry commission project</b-navbar-item>-->
     </template>
   </b-navbar>
