@@ -28,7 +28,7 @@
             <div class="card">
               <div class="card-content">
                 <img src="/img/gfc1.png">
-                <p><a href= https://nadiamayer.me/gfcabout>Commissioning project where I lead an artist and 10-60 Commissioniers  I handle all chatter with everyone.</a>
+                <p><a href="https://nadiamayer.me/gfcabout">Commissioning project where I lead an artist and 10-60 Commissioniers  I handle all chatter with everyone.</a></p>
               </div>
 
             </div>
@@ -39,16 +39,10 @@
               <div class="card-content">
                 <img src="/img/proto1/4.JPG">
               </div>
-
             </div>
           </div>
         </div>
-
-
-
-        </div>
-
-
+      </div>
     </section>
   </div>
 </template>

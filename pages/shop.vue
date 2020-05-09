@@ -7,140 +7,141 @@
             Nadia's shop
           </h1>
           <h2 class="subtitle">
-            If you want to to order form me click the google form link and submit the order ref number
+            If you want to to order from me, click the google form link and
+            submit the order ref number.
           </h2>
         </div>
       </div>
     </section>
     <section class="section">
       <div class="container">
-        <div class="columns">
-          <div class="column">
+        <div class="tile is-ancestor">
+          <div class="tile">
             <div class="card">
               <div class="card-content">
-                <img src="/img/shop/1.png">
+                <img src="/img/shop/1.png" />
                 <p>Cat dog mix TPU only moving jaw 75$+$40.</p>
                 <p>ref #1</p>
               </div>
             </div>
           </div>
 
-          <div class="column">
+          <div class="tile">
             <div class="card">
               <div class="card-content">
-                <img src="/img/shop/2.png">
+                <img src="/img/shop/2.png" />
                 <p>Dog fursuit base moving jaw 75$.</p>
                 <p>ref #2</p>
               </div>
-
             </div>
           </div>
 
-          <div class="column">
+          <div class="tile">
             <div class="card">
               <div class="card-content">
-                <img src="/img/shop/3.png">
+                <img src="/img/shop/3.png" />
                 <p>Dog2 fursuit base moving jaw 75$.</p>
                 <p>ref #3</p>
               </div>
-
             </div>
           </div>
-        </div>
 
-
-        <div class="columns">
-          <div class="column">
+          <div class="tile">
             <div class="card">
               <div class="card-content">
-                <img src="/img/shop/4.png">
-                <p>Opossum fursuit base moving jaw  75$</p>
-                <p>Used by tiny1badger <a href="https://www.youtube.com/watch?v=wDnJUBMMOOU">Youtube video</a>.</p>
+                <img src="/img/shop/4.png" />
+                <p>Opossum fursuit base moving jaw 75$</p>
                 <p>
-                  <p>Ref #4</p>
+                  Used by tiny1badger
+                  <a href="https://www.youtube.com/watch?v=wDnJUBMMOOU"
+                    >Youtube video</a
+                  >.
+                </p>
+                <p></p>
+                <p>Ref #4</p>
               </div>
             </div>
           </div>
 
-          <div class="column">
+          <div class="tile">
             <div class="card">
               <div class="card-content">
-                <img src="/img/shop/5.png">
-                <p>NOT A FURSUIT BASE dragon puppet base with with blinking eyes $150.</p>
+                <img src="/img/shop/5.png" />
+                <p>
+                  NOT A FURSUIT BASE dragon puppet base with with blinking eyes
+                  $150.
+                </p>
                 <p>ref #5</p>
               </div>
-
             </div>
           </div>
 
-          <div class="column">
+          <div class="tile">
             <div class="card">
               <div class="card-content">
-                <p>Don't see one you like for $125 I can make you your own desgin <a
-                    href="https://nadiamayer.me/talktome">messgage me here</a>.</p>
+                <p>
+                  Don't see one you like for $125 I can make you your own desgin
+                  <a href="https://nadiamayer.me/talktome">messgage me here</a>.
+                </p>
               </div>
-
             </div>
           </div>
-        </div>
 
-        <div class="columns">
-          <div class="column">
+          <div class="tile">
             <div class="card">
               <div class="card-content">
-                <img src="/img/shop/7.jpg">
-                <p>Fursuit googles scaled for use with fursuit or cosplay won't fit on your eyes unlesss in suit fit
-                  most fursuits $70.</p>
+                <img src="/img/shop/7.jpg" />
+                <p>
+                  Fursuit googles scaled for use with fursuit or cosplay won't
+                  fit on your eyes unlesss in suit fit most fursuits $70.
+                </p>
                 <p>ref #7</p>
               </div>
             </div>
           </div>
 
-
-
-          <div class="column">
+          <div class="tile">
             <div class="card">
               <div class="card-content">
-                <img src="/img/shop/8.png">
+                <img src="/img/shop/8.png" />
 
-                <p>Cat fursuit base moving jaw  $75.</p>
+                <p>Cat fursuit base moving jaw $75.</p>
                 <p>ref #8</p>
               </div>
             </div>
           </div>
 
-          <div class="column">
+          <div class="tile">
             <div class="card">
               <div class="card-content">
-                <img src="/img/shop/9.png">
+                <img src="/img/shop/9.png" />
 
                 <p>fox fursuit base moving jaw $75.</p>
                 <p>ref #9</p>
               </div>
             </div>
           </div>
-        </div>
 
-
-
-        <div class="columns">
-
-
-          <div class="column">
+          <div class="tile">
             <div class="card">
               <div class="card-content">
-                <p>If you have an idea for a item feel free to message I can makde a wide rage of things. <a
-                    href="https://nadiamayer.me/talktome">talk to me here</a>.</p>
+                <p>
+                  If you have an idea for a item feel free to message I can
+                  makde a wide rage of things.
+                  <a href="https://nadiamayer.me/talktome">talk to me here</a>.
+                </p>
               </div>
             </div>
           </div>
 
-          <div class="column">
+          <div class="tile">
             <div class="card">
               <div class="card-content">
-                <p>wanna buy something <a href="https://forms.gle/iCJLNPpgKgta7ijDA">Click Here</a> and make sure you
-                  list
-                  your ref number</p>
+                <p>
+                  wanna buy something
+                  <a href="https://forms.gle/iCJLNPpgKgta7ijDA">Click Here</a>
+                  and make sure you list your ref number
+                </p>
               </div>
             </div>
           </div>
@@ -151,33 +152,20 @@
 </template>
 
 <script lang="ts">
-  import Vue from "vue";
+import Vue from "vue";
 
-  export default Vue.extend({
-    data() {
-      return {
-        isIOS: false,
-        showBSVQRCode: false
-      };
-    },
-    mounted() {
-      this.isIOS =
-        !!navigator &&
-        !!navigator.platform &&
-        /iPad|iPhone|iPod/.test(navigator.platform);
-    },
-    methods: {
-      async bitcoinLink() {
-        const href =
-          (this.$refs.bsvLink as HTMLElement).getAttribute("href") || "";
-        if (!href) return;
-        window.location.href = href;
-
-        await new Promise(resolve =>
-          setTimeout(resolve, this.isIOS ? 3000 : 200)
-        );
-        this.showBSVQRCode = !this.showBSVQRCode;
-      }
-    }
-  });
+export default Vue.extend({
+  data() {
+    return {
+      isIOS: false,
+    };
+  },
+  mounted() {
+    this.isIOS =
+      !!navigator &&
+      !!navigator.platform &&
+      /iPad|iPhone|iPod/.test(navigator.platform);
+  },
+  methods: {},
+});
 </script>
