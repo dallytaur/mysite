@@ -77,7 +77,7 @@
                 <p>
                   Skunk moving jaw $75
                 </p>
-                <p>ref #5</p>
+                <p>ref #10</p>
               </div>
             </div>
           </div>
@@ -91,6 +91,34 @@
                   fit on your eyes unlesss in suit fit most fursuits $70.
                 </p>
                 <p>ref #7</p>
+              </div>
+            </div>
+            <div class="tile is-parent">
+              <div class="tile box is-child">
+                <img src="/img/shop/8.png" />
+
+                <p>Cat fursuit base moving jaw $75.</p>
+                <p>ref #8</p>
+              </div>
+            </div>
+            <div class="tile is-parent">
+              <div class="tile box is-child">
+                <img src="/img/shop/9.png" />
+
+                <p>fox fursuit base moving jaw $75.</p>
+                <p>ref #9</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="tile is-parent">
+            <div class="tile is-parent">
+              <div class="tile box is-child">
+                <img src="/img/shop/11.jpg" />
+                <p>
+                Dutch angel dragon/dragon moving jaw $75
+                </p>
+                <p>ref #11</p>
               </div>
             </div>
             <div class="tile is-parent">
