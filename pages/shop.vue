@@ -114,7 +114,7 @@
           <div class="tile is-parent">
             <div class="tile is-parent">
               <div class="tile box is-child">
-                <img src="/img/shop/11.jpg" />
+                <img src="/img/shop/11.png" />
                 <p>
                 Dutch angel dragon/dragon moving jaw $75
                 </p>
