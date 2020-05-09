@@ -43,7 +43,7 @@
             <p>
               If you are a artist wishing to host one of these projects feel
               free to message me under the contacts page
-              <a href="https://nadiamayer.me/talktome">here</a>
+              <nuxt-link to="talktome">here</nuxt-link>
             </p>
 
             <p>

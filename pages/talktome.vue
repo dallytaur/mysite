@@ -12,7 +12,7 @@
             </p>
             <p><a href="https://t.me/alicetaur">Telegram alicetaur</a></p>
             <p>
-              <a href=">https://www.instagram.com/dallytaur/"
+              <a href="https://www.instagram.com/dallytaur/"
                 >Instagram dallytaur</a
               >
             </p>
