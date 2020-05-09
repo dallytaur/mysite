@@ -138,7 +138,7 @@
               <div class="tile box is-child">
                 <p>
                   If you have an idea for a item feel free to message I can
-                  makde a wide rage of things.
+                  make a wide rage of things.
                   <nuxt-link to="talktome">talk to me here</nuxt-link>.
                 </p>
               </div>
