@@ -7,7 +7,7 @@
             Nadia's shop
           </h1>
           <h2 class="subtitle">
-            If you want to to order from me, click the google form link and
+            If you want to to order from me, <a href="https://forms.gle/iCJLNPpgKgta7ijDA">click the google form link here</a> and
             submit the order ref number.
           </h2>
         </div>
@@ -16,6 +16,9 @@
     <section class="section">
       <div class="container">
         <div class="tile is-ancestor is-vertical">
+
+
+
           <div class="tile is-parent">
             <div class="tile is-parent">
               <div class="tile box is-child">
@@ -70,10 +73,11 @@
             </div>
             <div class="tile is-parent">
               <div class="tile box is-child">
+                <img src="/img/shop/10.png" />
                 <p>
-                  Don't see one you like for $125 I can make you your own design
-                  <nuxt-link to="talktome">messgage me here</nuxt-link>.
+                  Skunk moving jaw $75
                 </p>
+                <p>ref #5</p>
               </div>
             </div>
           </div>
@@ -126,6 +130,17 @@
                 </p>
               </div>
             </div>
+
+            <div class="tile is-parent">
+              <div class="tile box is-child">
+                <p>
+                  Don't see one you like for $125 I can make you your own design
+                  <nuxt-link to="talktome">messgage me here</nuxt-link>.
+                </p>
+              </div>
+            </div>
+
+
           </div>
         </div>
       </div>
