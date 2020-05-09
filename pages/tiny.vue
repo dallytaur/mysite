@@ -5,7 +5,10 @@
         <div class="content">
           <div class="box">
             <h2 class="title is-3">welcome tiny viewers</h2>
-            <br />
+
+            <p>This is my humble website you see my store <a href="https://nadiamayer.me/shop"> here</a> and you see my projects <a href="https://nadiamayer.me/projects">here</a> the Opossum base you in tghe
+              video is also in the shop if you wish to buy one</p>
+            <!-- <br />
 
             I am glad you spent the time to watch the video and click on my link
             as of now I have a few things that I can make for you
@@ -80,6 +83,7 @@
 
             feel free to message me on any platform if you're intereste with
             buying anything
+           -->
             <p>
               <nuxt-link to="/">← return home</nuxt-link>
             </p>
