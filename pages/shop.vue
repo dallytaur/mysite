@@ -123,18 +123,12 @@
             </div>
             <div class="tile is-parent">
               <div class="tile box is-child">
-                <img src="/img/shop/8.png" />
 
-                <p>Cat fursuit base moving jaw $75.</p>
-                <p>ref #8</p>
               </div>
             </div>
             <div class="tile is-parent">
               <div class="tile box is-child">
-                <img src="/img/shop/9.png" />
 
-                <p>fox fursuit base moving jaw $75.</p>
-                <p>ref #9</p>
               </div>
             </div>
           </div>
