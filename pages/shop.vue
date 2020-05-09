@@ -49,7 +49,7 @@
           <div class="tile is-parent">
             <div class="tile is-parent">
               <div class="tile box is-child">
-                <img src="/img/shop/4.png" />
+                <img src="/img/shop/4.jpg" />
                 <p>Opossum fursuit base, moving jaw $75</p>
                 <p>
                   Used by tiny1badger
