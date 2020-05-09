@@ -54,7 +54,7 @@
             <div class="card">
               <div class="card-content">
                 <img src="/img/shop/4.png">
-                <p>Opossum fursuit base 75$</p>
+                <p>Opossum fursuit base moving jaw  75$</p>
                 <p>Used by tiny1badger <a href="https://www.youtube.com/watch?v=wDnJUBMMOOU">Youtube video</a>.</p>
                 <p>
                   <p>Ref #4</p>
@@ -66,7 +66,7 @@
             <div class="card">
               <div class="card-content">
                 <img src="/img/shop/5.png">
-                <p>NOT A FURSUIT BASE dragon puppet base with with moving eyes $150.</p>
+                <p>NOT A FURSUIT BASE dragon puppet base with with blinking eyes $150.</p>
                 <p>ref #5</p>
               </div>
 
@@ -96,11 +96,15 @@
             </div>
           </div>
 
+
+
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <p>If you have an idea for a item feel free to message I can makde a wide rage of things. <a
-                    href="https://nadiamayer.me/talktome">talk to me here</a>.</p>
+                <img src="/img/shop/8.png">
+
+                <p>Cat fursuit base moving jaw  $75.</p>
+                <p>ref #8</p>
               </div>
             </div>
           </div>
@@ -108,9 +112,9 @@
           <div class="column">
             <div class="card">
               <div class="card-content">
-                <img src="/img/shop/8.png">
+                <img src="/img/shop/9.png">
 
-                <p>Cat fursuit base $75.</p>
+                <p>fox fursuit base moving jaw $75.</p>
                 <p>ref #8</p>
               </div>
             </div>
@@ -120,6 +124,17 @@
 
 
         <div class="columns">
+
+
+          <div class="column">
+            <div class="card">
+              <div class="card-content">
+                <p>If you have an idea for a item feel free to message I can makde a wide rage of things. <a
+                    href="https://nadiamayer.me/talktome">talk to me here</a>.</p>
+              </div>
+            </div>
+          </div>
+
           <div class="column">
             <div class="card">
               <div class="card-content">
