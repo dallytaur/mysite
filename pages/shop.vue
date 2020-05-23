@@ -20,7 +20,7 @@
 
 
           <div class="tile is-parent">
-            <div class="tile is-parent">
+          <!--  <div class="tile is-parent">
               <div class="tile box is-child">
                 <img src="/img/shop/1.png" />
                 <p>
@@ -29,7 +29,7 @@
                 </p>
                 <p>ref #1</p>
               </div>
-            </div>
+            </div>-->
             <div class="tile is-parent">
               <div class="tile box is-child">
                 <img src="/img/shop/2.png" />
@@ -93,14 +93,14 @@
                 <p>ref #7</p>
               </div>
             </div>
-            <div class="tile is-parent">
+            <!--<div class="tile is-parent">
               <div class="tile box is-child">
                 <img src="/img/shop/8.png" />
 
                 <p>Cat fursuit base moving jaw $75.</p>
                 <p>ref #8</p>
               </div>
-            </div>
+            </div>-->
             <div class="tile is-parent">
               <div class="tile box is-child">
                 <img src="/img/shop/9.png" />
