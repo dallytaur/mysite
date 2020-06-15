@@ -43,23 +43,6 @@
 
             <div class="tile is-parent">
               <div class="tile box is-child">
-                <img src="/img/shop/2.png" />
-                <p>Dog fursuit base moving jaw $75.</p>
-                <p>ref #2</p>
-              </div>
-            </div>
-            <div class="tile is-parent">
-              <div class="tile box is-child">
-                <img src="/img/shop/3.png" />
-                <p>Dog2 fursuit base, moving jaw $75.</p>
-                <p>ref #3</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="tile is-parent">
-            <div class="tile is-parent">
-              <div class="tile box is-child">
                 <img src="/img/shop/4.jpg" />
                 <p>Opossum fursuit base, moving jaw $75</p>
                 <p>
@@ -71,6 +54,29 @@
                 <p></p>
                 <p>Ref #4</p>
               </div>
+              
+              <div class="tile is-parent">
+                <div class="tile box is-child">
+                  <img src="/img/shop/11.JPG" />
+                  <p>
+                  Dutch angel dragon/dragon moving jaw $75
+                  </p>
+                  <p>ref #11</p>
+                </div>
+              </div>
+
+          </div>
+
+          <div class="tile is-parent">
+
+            <div class="tile is-parent">
+              <div class="tile box is-child">
+                <img src="/img/shop/2.png" />
+                <p>Dog fursuit base moving jaw $75.</p>
+                <p>ref #2</p>
+              </div>
+            </div>
+
             </div>
             <div class="tile is-parent">
               <div class="tile box is-child">
@@ -94,19 +100,7 @@
           </div>
 
           <div class="tile is-parent">
-            
-          </div>
 
-          <div class="tile is-parent">
-            <div class="tile is-parent">
-              <div class="tile box is-child">
-                <img src="/img/shop/11.JPG" />
-                <p>
-                Dutch angel dragon/dragon moving jaw $75
-                </p>
-                <p>ref #11</p>
-              </div>
-            </div>
             <div class="tile is-parent">
               <div class="tile box is-child">
                 <img src="/img/shop/7.jpg" />
@@ -133,7 +127,13 @@
                 <p>ref #9</p>
               </div>
             </div>
-            
+            <div class="tile is-parent">
+              <div class="tile box is-child">
+                <img src="/img/shop/3.png" />
+                <p>Dog2 fursuit base, moving jaw $75.</p>
+                <p>ref #3</p>
+              </div>
+            </div>
           </div>
 
           <div class="tile is-parent">
