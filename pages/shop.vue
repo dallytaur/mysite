@@ -54,7 +54,8 @@
                 <p></p>
                 <p>Ref #4</p>
               </div>
-              
+            </div>
+            
               <div class="tile is-parent">
                 <div class="tile box is-child">
                   <img src="/img/shop/11.JPG" />
