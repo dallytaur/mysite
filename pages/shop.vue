@@ -30,6 +30,17 @@
                 <p>ref #1</p>
               </div>
             </div>-->
+
+              <div class="tile is-parent">
+              <div class="tile box is-child">
+                <img src="/img/shop/12.JPG" />
+                <p>
+                 Ant eatter, moving jaw, $75 
+                </p>
+                <p>ref #12</p>
+              </div>
+            </div>
+
             <div class="tile is-parent">
               <div class="tile box is-child">
                 <img src="/img/shop/2.png" />
