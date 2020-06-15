@@ -68,7 +68,7 @@
 
           </div>
 
-          <div class="tile is-parent">
+          <!--<div class="tile is-parent">
 
             <div class="tile is-parent">
               <div class="tile box is-child">
@@ -99,7 +99,7 @@
               </div>
             </div>
           </div>
-
+        -->
           <div class="tile is-parent">
 
             <div class="tile is-parent">
