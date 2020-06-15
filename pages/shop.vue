@@ -157,9 +157,9 @@
             <div class="tile is-parent">
               <div class="tile box is-child">
                 <p>
-                  wanna buy something
+                  Wanna buy something
                   <a href="https://forms.gle/iCJLNPpgKgta7ijDA">Click Here</a>
-                  and make sure you list your ref number
+                  and make sure you list your ref number.
                 </p>
               </div>
             </div>
@@ -167,7 +167,7 @@
             <div class="tile is-parent">
               <div class="tile box is-child">
                 <p>
-                  Don't see one you like for $125 I can make you your own design
+                  Don't see one you like for $125 I can make you your own design.
                   <nuxt-link to="talktome">messgage me here</nuxt-link>.
                 </p>
               </div>
